@@ -1,5 +1,5 @@
 {
-  "homepage": "http://DoctrNikhil.github.io/Note_Taking_React_App",
+  "homepage": "http://DoctrNikhil.github.io/note_app",
   "name": "using-pre-built-react-components",
   "version": "1.0.0",
   "description": "Created with CodeSandbox",
@@ -19,7 +19,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "react-scripts build && cp build/index.html build/404.html", // this will prevent page reloads to give a  404 error
+    "build": "react-scripts build && cp build/index.html build/404.html",
     "start": "react-scripts start",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
