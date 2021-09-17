@@ -32,11 +32,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DoctrNikhil/Note_Taking_React_App.git"
+    "url": "git+https://github.com/DoctrNikhil/note_app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DoctrNikhil/Note_Taking_React_App/issues"
+    "url": "https://github.com/DoctrNikhil/note_app/issues"
   }
 }
